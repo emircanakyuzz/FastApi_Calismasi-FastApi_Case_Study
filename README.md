@@ -23,7 +23,7 @@
 - GET /users/{user_id}: Kullanıcı bilgilerini görüntüleme.
 - PATCH /users/{user_id}: Kullanıcı bilgilerini güncelleme.
 - DELETE /users/{user_id}: Kullanıcıyı silme.
-3. Gönderi İşlemleri (/posts):
+2. Gönderi İşlemleri (/posts):
 - POST /posts/: Yeni gönderi oluşturma.
 - GET /posts/: Tüm gönderileri görüntüleme.
 - GET /posts/{post_id}: Belirli bir gönderiyi görüntüleme.

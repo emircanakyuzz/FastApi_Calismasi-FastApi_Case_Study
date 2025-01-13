@@ -9,10 +9,10 @@
 ### Backend:
 - FastAPI kullanılarak servis API'leri oluşturuldu.
 - CRUD işlemleri (Create, Retrieve, Update, Delete) eksiksiz bir şekilde uygulandı.
-- Uvicorn sunucusu ile FastAPI çalıştırılarak API, hızlı ve güvenilir bir şekilde sunuldu.
+- Uvicorn sunucusu ile FastAPI çalıştırıldı.
 - Tüm API işlemleri için HTTP metodları (GET, POST, PUT, PATCH, DELETE) kullanıldı.
 ### CORS Desteği:
-- API'ye farklı kökenlerden gelen isteklerin organize edilmesi için kullanılan CORS (Cross-Origin Resource Sharing) yapılandırıldı fakat detaylandırılmadı.
+- API'ye farklı kökenlerden gelen isteklerin organize edilmesi için kullanılan CORS (Cross-Origin Resource Sharing) yazıldı fakat detayları yapılandırılmadı.
 ### RESTful API:
 - API yapısı, RESTful prensiplere uygun olarak tasarlandı.
 - Belirli endpoint'ler (örneğin, /users, /posts) üzerinden veri işleme işlemleri gerçekleştirildi.

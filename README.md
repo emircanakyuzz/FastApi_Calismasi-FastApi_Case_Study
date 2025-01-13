@@ -33,4 +33,8 @@
 ### Proje Kurulumu ve Uygulamayı Başlatma:
 - Gerekli Pakelerin Kurulumu: "pip install fastapi uvicorn mysql-connector-python"
 - Uygulamayı Başlatma: "uvicorn main:app --reload"
+- API Dokümantasyonuna Erişim: Swagger UI: http://127.0.0.1:8000/docs veya OpenAPI JSON: http://127.0.0.1:8000/openapi.json
+
+
+
 
